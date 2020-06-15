@@ -17,7 +17,7 @@ Some input files have been included in the './inputs' directory.
 
 ### Makefile Instructions
 
-`make pa2` - Compiles the program <br />
+`make pa5` - Compiles the program <br />
 `make clean` - Removes all temporary files <br />
 `make testN` - N corresponds to testcase 1-5 <br />
 
